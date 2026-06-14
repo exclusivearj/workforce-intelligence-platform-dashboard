@@ -1,0 +1,7 @@
+# Streamlit Community Cloud reads requirements.txt directly (not pyproject.toml).
+streamlit>=1.35
+trino>=0.328
+pandas>=2.2
+plotly>=5.20
+psycopg2-binary>=2.9
+python-dotenv>=1.0
