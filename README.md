@@ -1,4 +1,6 @@
-# dashboard — People Analytics Streamlit app
+![workforce-intelligence-platform-dashboard banner](assets/04-dashboard-banner.png)
+
+# workforce-intelligence-platform-dashboard — People Analytics Streamlit app
 
 Part 4 of 4 in the [workforce-intelligence-platform](../README.md).
 
